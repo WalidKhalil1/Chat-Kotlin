@@ -1,0 +1,437 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\opel_\.gradle\caches\transforms-3\38bfc91ac052d8db0fb60f1b4f424638\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\opel_\.gradle\caches\transforms-3\7c6beb6a412320025580003e4f2cd185\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\opel_\.gradle\caches\transforms-3\e18cc26e5603d94dafa3db321858d9d7\transformed\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\opel_\.gradle\caches\transforms-3\e47605aae859601a2b66a4f4c40aba2b\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\6e81583bca6cb6917886096bf17c8cab\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\5039bd8868b93916d5011d5505bccea8\transformed\jetified-firebase-database-ktx-20.0.2\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d04021f9a01c7a836ad0f16d3fff60f9\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\6e3912461802c743a2bf45f396407c21\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\opel_\.gradle\caches\transforms-3\cd13c47d9db3c2763a024c62467c3009\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\17bcd84c735f4ebfb6a84d06da1fe509\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\opel_\.gradle\caches\transforms-3\e0d0cbf95640da5f4fc0c1615a23c631\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\opel_\.gradle\caches\transforms-3\b6ff345ffd76deeb7a9152eabdfa6288\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\a00d2424c81330a361019fbdc29c7132\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\1bfae02fe1e1795b2c35812f1a730231\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\19602d8931431c1e031cc758615cda3b\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\9c9b4e21de3c8a0caa6600ed6da5e383\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\opel_\.gradle\caches\transforms-3\5f8725852af83621c107ffb7a3d8c95f\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\opel_\.gradle\caches\transforms-3\228f3fd849646480e5409ff693cbba0c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\opel_\.gradle\caches\transforms-3\42d32d9a3bb3d571d5f496c5f3f119ef\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\fb60f2b8873bc4b2f8f341e0ed0100be\transformed\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\06a2ab8d5088c53fdcc71428185c3638\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\f6fe1b94dadbf922cd7890ebe607849a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\8a675216da97669e3097175a9b01d1d3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\03b61ea4e6a6273d67dcaab09b4fda23\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\opel_\.gradle\caches\transforms-3\0d633671415f118b62782b34c8a83d9e\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\d6e528d705b3ff192a19accf481e466f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\d2e7d2edd2ddbe19c1c9dbd7ca5a0e5a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\58b7f95f9695201e43915e5dca79754c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\1d88fe68d4e529ef2d4028b1a91226aa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\da28ba8e97ecf0441c6ae5897dc6539e\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\9d73e69f8f1c285c3063052eb935430d\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\6a39de40f0e9cfba6ae471c1dc4bed08\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\0a96bc8099c6e2a4ed0dec3ae306d80f\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\8dd98de29eb81098539d6b3c32e316fd\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\91b2772caef34ca5d073aa1fb13d634c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\opel_\.gradle\caches\transforms-3\181e08d49275bb72e4150f370c97be78\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d6be6aaeeefb883210310b15aa17efe6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\opel_\.gradle\caches\transforms-3\fdfae917f917cb19f395100fe8549bc1\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\b19c9b74d7c994c33e9e7e382c22cde0\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\opel_\.gradle\caches\transforms-3\79603951fb3b94e133f856007df08335\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\opel_\.gradle\caches\transforms-3\9c61ad7f7caef112161aafaedf15a294\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\788863605df1926e81ab1d640b55bd67\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\6896c783679ae2a1fd5e4f5a00f7d034\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\opel_\.gradle\caches\transforms-3\af6b2de3d1edd5e00888fb48d1c69316\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\769546ee0099c470731c9c380090e4a6\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\opel_\.gradle\caches\transforms-3\82dbfcc912225c9c3a04e48f58e9eb92\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\opel_\.gradle\caches\transforms-3\9e5ae64dbb16c348ccb1dc800e49930d\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\opel_\.gradle\caches\transforms-3\145303868a8746445ae9c73cf3ea340c\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\b0799147f5e9c87fb9c1dfc2fdaf30b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\b131f2afca8780fecf85d5923a50b95a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\1b9c310a28b39d7e6ddc989175f0ce0b\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\e1b4e6eff6dc605a4f6f5ebfda2bb69a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\956aa145130d737f9e274dd4babee5dc\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:5:5-30:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\opel_\.gradle\caches\transforms-3\7c6beb6a412320025580003e4f2cd185\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\opel_\.gradle\caches\transforms-3\7c6beb6a412320025580003e4f2cd185\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\opel_\.gradle\caches\transforms-3\e18cc26e5603d94dafa3db321858d9d7\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\opel_\.gradle\caches\transforms-3\e18cc26e5603d94dafa3db321858d9d7\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\6e81583bca6cb6917886096bf17c8cab\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\6e81583bca6cb6917886096bf17c8cab\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\5039bd8868b93916d5011d5505bccea8\transformed\jetified-firebase-database-ktx-20.0.2\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\5039bd8868b93916d5011d5505bccea8\transformed\jetified-firebase-database-ktx-20.0.2\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d04021f9a01c7a836ad0f16d3fff60f9\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d04021f9a01c7a836ad0f16d3fff60f9\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\17bcd84c735f4ebfb6a84d06da1fe509\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\17bcd84c735f4ebfb6a84d06da1fe509\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\opel_\.gradle\caches\transforms-3\e0d0cbf95640da5f4fc0c1615a23c631\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\opel_\.gradle\caches\transforms-3\e0d0cbf95640da5f4fc0c1615a23c631\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\a00d2424c81330a361019fbdc29c7132\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\a00d2424c81330a361019fbdc29c7132\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\1bfae02fe1e1795b2c35812f1a730231\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\1bfae02fe1e1795b2c35812f1a730231\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\19602d8931431c1e031cc758615cda3b\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\19602d8931431c1e031cc758615cda3b\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\9c9b4e21de3c8a0caa6600ed6da5e383\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\9c9b4e21de3c8a0caa6600ed6da5e383\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\opel_\.gradle\caches\transforms-3\181e08d49275bb72e4150f370c97be78\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\opel_\.gradle\caches\transforms-3\181e08d49275bb72e4150f370c97be78\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\opel_\.gradle\caches\transforms-3\af6b2de3d1edd5e00888fb48d1c69316\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\opel_\.gradle\caches\transforms-3\af6b2de3d1edd5e00888fb48d1c69316\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\opel_\.gradle\caches\transforms-3\181e08d49275bb72e4150f370c97be78\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:11:9-45
+activity#com.example.chatapp.ChatActivity
+ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:12:9-14:39
+	android:exported
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:13:13-41
+activity#com.example.chatapp.SignInActivity
+ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:15:9-17:39
+	android:exported
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:16:13-43
+activity#com.example.chatapp.LogInActivity
+ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:exported
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:19:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.chatapp.MainActivity
+ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:27:9-29:48
+	android:exported
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml:28:13-41
+uses-sdk
+INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\opel_\.gradle\caches\transforms-3\38bfc91ac052d8db0fb60f1b4f424638\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\opel_\.gradle\caches\transforms-3\38bfc91ac052d8db0fb60f1b4f424638\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\opel_\.gradle\caches\transforms-3\7c6beb6a412320025580003e4f2cd185\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\opel_\.gradle\caches\transforms-3\7c6beb6a412320025580003e4f2cd185\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\opel_\.gradle\caches\transforms-3\e18cc26e5603d94dafa3db321858d9d7\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\opel_\.gradle\caches\transforms-3\e18cc26e5603d94dafa3db321858d9d7\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\opel_\.gradle\caches\transforms-3\e47605aae859601a2b66a4f4c40aba2b\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\opel_\.gradle\caches\transforms-3\e47605aae859601a2b66a4f4c40aba2b\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\6e81583bca6cb6917886096bf17c8cab\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\6e81583bca6cb6917886096bf17c8cab\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\5039bd8868b93916d5011d5505bccea8\transformed\jetified-firebase-database-ktx-20.0.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\5039bd8868b93916d5011d5505bccea8\transformed\jetified-firebase-database-ktx-20.0.2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d04021f9a01c7a836ad0f16d3fff60f9\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d04021f9a01c7a836ad0f16d3fff60f9\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\6e3912461802c743a2bf45f396407c21\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\6e3912461802c743a2bf45f396407c21\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\opel_\.gradle\caches\transforms-3\cd13c47d9db3c2763a024c62467c3009\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\opel_\.gradle\caches\transforms-3\cd13c47d9db3c2763a024c62467c3009\transformed\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\17bcd84c735f4ebfb6a84d06da1fe509\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\17bcd84c735f4ebfb6a84d06da1fe509\transformed\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\opel_\.gradle\caches\transforms-3\e0d0cbf95640da5f4fc0c1615a23c631\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\opel_\.gradle\caches\transforms-3\e0d0cbf95640da5f4fc0c1615a23c631\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\opel_\.gradle\caches\transforms-3\b6ff345ffd76deeb7a9152eabdfa6288\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\opel_\.gradle\caches\transforms-3\b6ff345ffd76deeb7a9152eabdfa6288\transformed\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\a00d2424c81330a361019fbdc29c7132\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\a00d2424c81330a361019fbdc29c7132\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\1bfae02fe1e1795b2c35812f1a730231\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\1bfae02fe1e1795b2c35812f1a730231\transformed\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\19602d8931431c1e031cc758615cda3b\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\19602d8931431c1e031cc758615cda3b\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\9c9b4e21de3c8a0caa6600ed6da5e383\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\9c9b4e21de3c8a0caa6600ed6da5e383\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\opel_\.gradle\caches\transforms-3\5f8725852af83621c107ffb7a3d8c95f\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\opel_\.gradle\caches\transforms-3\5f8725852af83621c107ffb7a3d8c95f\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\opel_\.gradle\caches\transforms-3\228f3fd849646480e5409ff693cbba0c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\opel_\.gradle\caches\transforms-3\228f3fd849646480e5409ff693cbba0c\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\opel_\.gradle\caches\transforms-3\42d32d9a3bb3d571d5f496c5f3f119ef\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\opel_\.gradle\caches\transforms-3\42d32d9a3bb3d571d5f496c5f3f119ef\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\fb60f2b8873bc4b2f8f341e0ed0100be\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\fb60f2b8873bc4b2f8f341e0ed0100be\transformed\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\06a2ab8d5088c53fdcc71428185c3638\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\06a2ab8d5088c53fdcc71428185c3638\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\f6fe1b94dadbf922cd7890ebe607849a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\f6fe1b94dadbf922cd7890ebe607849a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\8a675216da97669e3097175a9b01d1d3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\8a675216da97669e3097175a9b01d1d3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\03b61ea4e6a6273d67dcaab09b4fda23\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\03b61ea4e6a6273d67dcaab09b4fda23\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\opel_\.gradle\caches\transforms-3\0d633671415f118b62782b34c8a83d9e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\opel_\.gradle\caches\transforms-3\0d633671415f118b62782b34c8a83d9e\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\d6e528d705b3ff192a19accf481e466f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\d6e528d705b3ff192a19accf481e466f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\d2e7d2edd2ddbe19c1c9dbd7ca5a0e5a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\d2e7d2edd2ddbe19c1c9dbd7ca5a0e5a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\58b7f95f9695201e43915e5dca79754c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\58b7f95f9695201e43915e5dca79754c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\1d88fe68d4e529ef2d4028b1a91226aa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\1d88fe68d4e529ef2d4028b1a91226aa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\da28ba8e97ecf0441c6ae5897dc6539e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\da28ba8e97ecf0441c6ae5897dc6539e\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\9d73e69f8f1c285c3063052eb935430d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\9d73e69f8f1c285c3063052eb935430d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\6a39de40f0e9cfba6ae471c1dc4bed08\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\6a39de40f0e9cfba6ae471c1dc4bed08\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\0a96bc8099c6e2a4ed0dec3ae306d80f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\0a96bc8099c6e2a4ed0dec3ae306d80f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\8dd98de29eb81098539d6b3c32e316fd\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\8dd98de29eb81098539d6b3c32e316fd\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\91b2772caef34ca5d073aa1fb13d634c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\91b2772caef34ca5d073aa1fb13d634c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\opel_\.gradle\caches\transforms-3\181e08d49275bb72e4150f370c97be78\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\opel_\.gradle\caches\transforms-3\181e08d49275bb72e4150f370c97be78\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d6be6aaeeefb883210310b15aa17efe6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d6be6aaeeefb883210310b15aa17efe6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\opel_\.gradle\caches\transforms-3\fdfae917f917cb19f395100fe8549bc1\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\opel_\.gradle\caches\transforms-3\fdfae917f917cb19f395100fe8549bc1\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\b19c9b74d7c994c33e9e7e382c22cde0\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\b19c9b74d7c994c33e9e7e382c22cde0\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\opel_\.gradle\caches\transforms-3\79603951fb3b94e133f856007df08335\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\opel_\.gradle\caches\transforms-3\79603951fb3b94e133f856007df08335\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\opel_\.gradle\caches\transforms-3\9c61ad7f7caef112161aafaedf15a294\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\opel_\.gradle\caches\transforms-3\9c61ad7f7caef112161aafaedf15a294\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\788863605df1926e81ab1d640b55bd67\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\788863605df1926e81ab1d640b55bd67\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\6896c783679ae2a1fd5e4f5a00f7d034\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\opel_\.gradle\caches\transforms-3\6896c783679ae2a1fd5e4f5a00f7d034\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\opel_\.gradle\caches\transforms-3\af6b2de3d1edd5e00888fb48d1c69316\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\opel_\.gradle\caches\transforms-3\af6b2de3d1edd5e00888fb48d1c69316\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\769546ee0099c470731c9c380090e4a6\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\769546ee0099c470731c9c380090e4a6\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\opel_\.gradle\caches\transforms-3\82dbfcc912225c9c3a04e48f58e9eb92\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\opel_\.gradle\caches\transforms-3\82dbfcc912225c9c3a04e48f58e9eb92\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\opel_\.gradle\caches\transforms-3\9e5ae64dbb16c348ccb1dc800e49930d\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\opel_\.gradle\caches\transforms-3\9e5ae64dbb16c348ccb1dc800e49930d\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\opel_\.gradle\caches\transforms-3\145303868a8746445ae9c73cf3ea340c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\opel_\.gradle\caches\transforms-3\145303868a8746445ae9c73cf3ea340c\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\b0799147f5e9c87fb9c1dfc2fdaf30b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\b0799147f5e9c87fb9c1dfc2fdaf30b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\b131f2afca8780fecf85d5923a50b95a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\b131f2afca8780fecf85d5923a50b95a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\1b9c310a28b39d7e6ddc989175f0ce0b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\1b9c310a28b39d7e6ddc989175f0ce0b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\e1b4e6eff6dc605a4f6f5ebfda2bb69a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\opel_\.gradle\caches\transforms-3\e1b4e6eff6dc605a4f6f5ebfda2bb69a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\956aa145130d737f9e274dd4babee5dc\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\opel_\.gradle\caches\transforms-3\956aa145130d737f9e274dd4babee5dc\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\opel_\AndroidStudioProjects\ChatApp2\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\6e81583bca6cb6917886096bf17c8cab\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\5039bd8868b93916d5011d5505bccea8\transformed\jetified-firebase-database-ktx-20.0.2\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\5039bd8868b93916d5011d5505bccea8\transformed\jetified-firebase-database-ktx-20.0.2\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d04021f9a01c7a836ad0f16d3fff60f9\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d04021f9a01c7a836ad0f16d3fff60f9\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\6e81583bca6cb6917886096bf17c8cab\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\6e81583bca6cb6917886096bf17c8cab\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\6e81583bca6cb6917886096bf17c8cab\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\6e81583bca6cb6917886096bf17c8cab\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\6e81583bca6cb6917886096bf17c8cab\transformed\jetified-firebase-auth-ktx-21.0.1\AndroidManifest.xml:12:17-116
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\5039bd8868b93916d5011d5505bccea8\transformed\jetified-firebase-database-ktx-20.0.2\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\5039bd8868b93916d5011d5505bccea8\transformed\jetified-firebase-database-ktx-20.0.2\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\5039bd8868b93916d5011d5505bccea8\transformed\jetified-firebase-database-ktx-20.0.2\AndroidManifest.xml:16:17-124
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d04021f9a01c7a836ad0f16d3fff60f9\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d04021f9a01c7a836ad0f16d3fff60f9\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\d04021f9a01c7a836ad0f16d3fff60f9\transformed\jetified-firebase-common-ktx-20.0.0\AndroidManifest.xml:16:17-113
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\opel_\.gradle\caches\transforms-3\e76f5fe5e2288aec843d351789aceed1\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\opel_\.gradle\caches\transforms-3\c96ea8cc19edfe9e1f043ce3b19fd1a8\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\a00d2424c81330a361019fbdc29c7132\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\a00d2424c81330a361019fbdc29c7132\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\a00d2424c81330a361019fbdc29c7132\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\a00d2424c81330a361019fbdc29c7132\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\opel_\.gradle\caches\transforms-3\84118f791df74e868d30e6bcb493db61\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\9c9b4e21de3c8a0caa6600ed6da5e383\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\9c9b4e21de3c8a0caa6600ed6da5e383\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\opel_\.gradle\caches\transforms-3\9c9b4e21de3c8a0caa6600ed6da5e383\transformed\jetified-play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
