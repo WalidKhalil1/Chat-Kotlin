@@ -1,4 +1,4 @@
-#Thu Dec 02 07:30:39 CET 2021
+#Sun Dec 05 09:10:05 CET 2021
 base.2=C\:\\Users\\opel_\\AndroidStudioProjects\\ChatApp2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
 path.2=13/classes.dex
 base.1=C\:\\Users\\opel_\\AndroidStudioProjects\\ChatApp2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
